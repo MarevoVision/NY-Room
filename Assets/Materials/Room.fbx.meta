@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: ea26237fadfb13b4b9a2a307fb7e1367
+timeCreated: 1542957575
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1
+    100002: 2
+    100004: 3
+    100006: 4
+    100008: AM117_51_00_1
+    100010: AM117_51_06
+    100012: AM117_51_06_1
+    100014: box
+    100016: box_1
+    100018: box_2
+    100020: box_2_2
+    100022: box_3
+    100024: box_4
+    100026: fabric
+    100028: HDRI
+    100030: igrushki
+    100032: karkas
+    100034: kover
+    100036: lamp
+    100038: picture
+    100040: pilow_big
+    100042: pilow_small
+    100044: plintus_1
+    100046: pol
+    100048: potolok
+    100050: //RootNode
+    100052: rope
+    100054: rope_2
+    100056: rope_3
+    100058: rope_4
+    100060: rope_5
+    100062: steklo
+    100064: steni
+    100066: stol
+    100068: TV
+    100070: window
+    100072: wood
+    100074: yolka
+    400000: 1
+    400002: 2
+    400004: 3
+    400006: 4
+    400008: AM117_51_00_1
+    400010: AM117_51_06
+    400012: AM117_51_06_1
+    400014: box
+    400016: box_1
+    400018: box_2
+    400020: box_2_2
+    400022: box_3
+    400024: box_4
+    400026: fabric
+    400028: HDRI
+    400030: igrushki
+    400032: karkas
+    400034: kover
+    400036: lamp
+    400038: picture
+    400040: pilow_big
+    400042: pilow_small
+    400044: plintus_1
+    400046: pol
+    400048: potolok
+    400050: //RootNode
+    400052: rope
+    400054: rope_2
+    400056: rope_3
+    400058: rope_4
+    400060: rope_5
+    400062: steklo
+    400064: steni
+    400066: stol
+    400068: TV
+    400070: window
+    400072: wood
+    400074: yolka
+    2300000: 1
+    2300002: 2
+    2300004: 3
+    2300006: 4
+    2300008: AM117_51_00_1
+    2300010: AM117_51_06
+    2300012: AM117_51_06_1
+    2300014: box_1
+    2300016: box_2
+    2300018: box_2_2
+    2300020: box_3
+    2300022: box_4
+    2300024: fabric
+    2300026: HDRI
+    2300028: karkas
+    2300030: kover
+    2300032: lamp
+    2300034: picture
+    2300036: pilow_big
+    2300038: pilow_small
+    2300040: plintus_1
+    2300042: pol
+    2300044: potolok
+    2300046: rope
+    2300048: rope_2
+    2300050: rope_3
+    2300052: rope_4
+    2300054: rope_5
+    2300056: steklo
+    2300058: steni
+    2300060: stol
+    2300062: TV
+    2300064: window
+    2300066: wood
+    3300000: 1
+    3300002: 2
+    3300004: 3
+    3300006: 4
+    3300008: AM117_51_00_1
+    3300010: AM117_51_06
+    3300012: AM117_51_06_1
+    3300014: box_1
+    3300016: box_2
+    3300018: box_2_2
+    3300020: box_3
+    3300022: box_4
+    3300024: fabric
+    3300026: HDRI
+    3300028: karkas
+    3300030: kover
+    3300032: lamp
+    3300034: picture
+    3300036: pilow_big
+    3300038: pilow_small
+    3300040: plintus_1
+    3300042: pol
+    3300044: potolok
+    3300046: rope
+    3300048: rope_2
+    3300050: rope_3
+    3300052: rope_4
+    3300054: rope_5
+    3300056: steklo
+    3300058: steni
+    3300060: stol
+    3300062: TV
+    3300064: window
+    3300066: wood
+    4300000: AM117_51_00_1
+    4300002: AM117_51_06
+    4300004: AM117_51_06_1
+    4300006: karkas
+    4300008: 4
+    4300010: 2
+    4300012: 1
+    4300014: 3
+    4300016: steklo
+    4300018: box_2
+    4300020: rope
+    4300022: box_4
+    4300024: rope_2
+    4300026: box_3
+    4300028: rope_3
+    4300030: box_2_2
+    4300032: rope_4
+    4300034: box_1
+    4300036: rope_5
+    4300038: lamp
+    4300040: steni
+    4300042: plintus_1
+    4300044: potolok
+    4300046: pol
+    4300048: window
+    4300050: picture
+    4300052: TV
+    4300054: stol
+    4300056: kover
+    4300058: fabric
+    4300060: pilow_small
+    4300062: pilow_big
+    4300064: wood
+    4300066: HDRI
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HDRI
+    second: {fileID: 2100000, guid: 7ad0b234508584048bac041b702b9ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 155120ea09be2724b9871af7149bd79e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue
+    second: {fileID: 2100000, guid: eb4aea8db6d2fdb4a838945317cb48eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric
+    second: {fileID: 2100000, guid: 5aecd04c193dd8d408f4b962042881cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric.1
+    second: {fileID: 2100000, guid: be0c57a88aa0d2f48a1e4f7cfe646cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric.2
+    second: {fileID: 2100000, guid: c58cbfb0303a18b4ea8705b9863d2ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2100000, guid: 43828ed041ce0a9489de7cf1a34bfb37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green
+    second: {fileID: 2100000, guid: 81d3cfbc530f2464dbd8f0986932081a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kover
+    second: {fileID: 2100000, guid: 8b93d43f04cd52a4f845946d064df81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metall
+    second: {fileID: 2100000, guid: a5bd16ca70a08d24b92e9f2112cd38d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: picture
+    second: {fileID: 2100000, guid: 1b5205a47e8f87b448feb4b70adbe818, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastik
+    second: {fileID: 2100000, guid: 2569a768abad3a1479f9d498abb2c8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pol
+    second: {fileID: 2100000, guid: 9e6d27abccc9d884f90b0aafa1141992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: potolok
+    second: {fileID: 2100000, guid: 4fbf042befb034e48a3c6acd0868fb85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red
+    second: {fileID: 2100000, guid: ac43cc0b014e7e442a4967efaf5e293e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steklo
+    second: {fileID: 2100000, guid: c15c09de0cb49aa459ef361f1756cf09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steklo2
+    second: {fileID: 2100000, guid: 53fb3c3ba62b40e4ca9c2e3721d25d95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steni
+    second: {fileID: 2100000, guid: 39ea76b93dfa54440935962dd4c5d239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv
+    second: {fileID: 2100000, guid: 0c13086bf59373548bd5d1ec55732b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yolka_igolki
+    second: {fileID: 2100000, guid: a7db77ac2ef7c8a438c98f92c9d4c1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yolka_stvol
+    second: {fileID: 2100000, guid: e6c2d7440a03a1b498ccfebe667c83b7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
